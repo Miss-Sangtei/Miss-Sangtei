@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Eterna
-Template URL: https://bootstrapmade.com/eterna-free-multipurpose-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: Miss Sangtei Git io
+Template URL: https://miss-sangtei.github.io
+Author: https://lalrochhara.github.io
+License: https://https://lalrochhara.github.io/license/
